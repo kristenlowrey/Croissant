@@ -1,0 +1,38 @@
+body {
+  background-color: bisque;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+}
+h3 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  display: block;
+  margin: 0 auto;
+  max-width: 90%;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 90%;
+}
+a {
+  color: darkgreen;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-decoration: none;
+  font-size: large;
+  padding: 20px;
+}
+a:hover {
+  text-decoration: underline;
+}
+.links {
+  text-align: center;
+}
+.email {
+  text-align: center;
+}
